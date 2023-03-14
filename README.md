@@ -1,1 +1,3 @@
 # Regression-Project
+This project demonstrates the usage of machine learning algorithms in the prediction of Real estate/House prices in Bangalore on real datasets downloaded from Kaggle created by Amitabhajoy. To this day, literature about research on machine learning prediction of house prices in India is extremely limited. In this project I have tried to use machine learning algorithms to implement this prediction engine for real-life usage by users 
+The findings indicate that using different algorithms can drastically change accuracy. Also, a poor dataset can negatively affect the predictions. Furthermore, it provides sufficient proof of what algorithm is best suitable for this task.
